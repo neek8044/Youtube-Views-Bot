@@ -1,5 +1,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
+**Repository has been archived. The program decreases the video's growth with the way the Youtube algorithm works anyways, so there is no reason to either use or commit to this project anymore.**
+
 # Youtube-Views-Bot
 Adds more views to a youtube video
 
